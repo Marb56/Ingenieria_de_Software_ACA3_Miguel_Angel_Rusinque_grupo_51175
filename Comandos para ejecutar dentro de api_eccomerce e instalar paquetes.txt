@@ -1,0 +1,30 @@
+npm init -y
+
+npm i express@4.18.2
+
+npm install -D @babel/cli@7.20.7
+npm install -D @babel/core@7.20.12
+npm install -D @babel/preset-env@7.20.2
+npm install -D @babel/node@7.20.7
+
+
+
+
+
+
+npm i nodemon@2.0.20
+
+npm install mongoose@6.9.1
+
+
+npm i jsonwebtoken
+
+npm i bcryptjs@2.4.3
+
+npm i body-parse
+
+
+npm i cors@2.8.5
+npm i connect-multiparty@2.2.0
+
+npm i express-promise-router@4.1.1
